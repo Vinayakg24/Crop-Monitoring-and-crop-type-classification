@@ -6,7 +6,7 @@ A comprehensive Streamlit GUI for crop type classification in Hisar District usi
 
 This application implements a two-stage hierarchical approach for crop classification:
 
-- **Stage 1:** Cropland mask via NDVI threshold + ESA WorldCover mask
+- **Stage 1:** Cropland mask via various spectral threshold + ESA WorldCover mask
 - **Stage 2:** Phenological rules (auto-label) + manual tree training + Random Forest
 
 ### Crop Classes (6 classes)
